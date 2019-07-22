@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  background-color: ghostwhite;
+    height: 5rem;
+    padding: 2rem;
+}
+.format-toolbar{
+  display: flex;
+  border-bottom: solid 1.7px rgba(199,198,255,0.15);
+  padding:10px 0;
+  margin:0 0 10px 0;
+}
+
+.tooltip-icon-button{
+  border:0;
 }
 
 .App-logo {

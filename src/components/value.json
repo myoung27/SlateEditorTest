@@ -1,0 +1,86 @@
+{
+  "object": "value",
+  "document": {
+    "object": "document",
+    "nodes": [
+      {
+        "object": "block",
+        "type": "paragraph",
+        "nodes": [
+          {
+            "object": "text",
+            "text": "This is a test "
+          },
+          {
+            "object": "text",
+            "text": "rich",
+            "marks": [{ "type": "bold" }]
+          },
+          {
+            "object": "text",
+            "text": " text, "
+          },
+          {
+            "object": "text",
+            "text": "much",
+            "marks": [{ "type": "italic" }]
+          },
+          {
+            "object": "text",
+            "text": " better than a "
+          },
+          {
+            "object": "text",
+            "text": "<textarea>",
+            "marks": [{ "type": "code" }]
+          },
+          {
+            "object": "text",
+            "text": "!"
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "type": "paragraph",
+        "nodes": [
+          {
+            "object": "text",
+            "text":
+              ""
+          },
+          {
+            "object": "text",
+            "text": "",
+            "marks": [{ "type": "bold" }]
+          },
+          {
+            "object": "text",
+            "text":
+              ""
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "type": "block-quote",
+        "nodes": [
+          {
+            "object": "text",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "object": "block",
+        "type": "paragraph",
+        "nodes": [
+          {
+            "object": "text",
+            "text": ""
+          }
+        ]
+      }
+    ]
+  }
+}
