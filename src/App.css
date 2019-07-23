@@ -1,8 +1,5 @@
 .App {
-  text-align: center;
-  background-color: ghostwhite;
-    height: 5rem;
-    padding: 2rem;
+  
 }
 .format-toolbar{
   display: flex;
